@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593181168157",
+    "firebase_url": "https://connectivity-cd977.firebaseio.com",
+    "project_id": "connectivity-cd977",
+    "storage_bucket": "connectivity-cd977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593181168157:android:776737eee06bd0d826ecf4",
+        "android_client_info": {
+          "package_name": "org.nativescript.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593181168157-2fj0dl0glibu6b2tnc5o1u5ek58ldtku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnFp1ZB6m2xEbYYuLb-UjxXBicjBSn7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593181168157-2fj0dl0glibu6b2tnc5o1u5ek58ldtku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
